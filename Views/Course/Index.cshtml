@@ -1,0 +1,39 @@
+﻿@using ProblemAssignmnet2_SruthiKamisetti.Models
+@model List<CourseList>
+@{
+    ViewData["Title"] = "All Courses";
+}
+
+
+<a asp-action="GetAddNewCourse" asp-controller="Course">Add New Course</a>
+<table class="table table-stripped table-bordered">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Instructor</th>
+            <th>Start Date</th>
+            <th>Room #</th>
+            <th>Number of Students</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (CourseList crs in Model)
+        {
+            <tr>
+                <td>@crs.CourseName</td>
+                <td>@crs.Instructor</td>
+                <td>@crs.StartDate</td>
+                <td>@crs.RoomNumber</td>
+                <td>@crs.StudentCount</td>
+                <td>
+                    <a asp-action="ManageCourse" asp-controller="Course" asp-route-id="@crs.CourseId">Manage</a>
+                    <span class="mx-1">|</span>
+                    <a asp-action="EditCourse" asp-controller="Course" asp-route-id="@crs.CourseId">Edit</a>
+                </td>
+            </tr>
+        }
+       
+
+    </tbody>
+</table>

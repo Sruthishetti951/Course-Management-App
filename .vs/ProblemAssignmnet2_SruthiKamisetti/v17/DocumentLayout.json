@@ -1,0 +1,409 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Subjects\\Sem 2\\Asp.net\\Assignments\\ProblemAssignment2\\ProblemAssignment2_SruthiKamisetti\\ProblemAssignmnet2_SruthiKamisetti\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C97D8AE9-5182-416D-8D84-D83A091AFF32}|ProblemAssignmnet2_SruthiKamisetti.csproj|d:\\subjects\\sem 2\\asp.net\\assignments\\problemassignment2\\problemassignment2_sruthikamisetti\\problemassignmnet2_sruthikamisetti\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C97D8AE9-5182-416D-8D84-D83A091AFF32}|ProblemAssignmnet2_SruthiKamisetti.csproj|solutionrelative:controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C97D8AE9-5182-416D-8D84-D83A091AFF32}|ProblemAssignmnet2_SruthiKamisetti.csproj|d:\\subjects\\sem 2\\asp.net\\assignments\\problemassignment2\\problemassignment2_sruthikamisetti\\problemassignmnet2_sruthikamisetti\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C97D8AE9-5182-416D-8D84-D83A091AFF32}|ProblemAssignmnet2_SruthiKamisetti.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C97D8AE9-5182-416D-8D84-D83A091AFF32}|ProblemAssignmnet2_SruthiKamisetti.csproj|d:\\subjects\\sem 2\\asp.net\\assignments\\problemassignment2\\problemassignment2_sruthikamisetti\\problemassignmnet2_sruthikamisetti\\views\\course\\confirmationresponse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C97D8AE9-5182-416D-8D84-D83A091AFF32}|ProblemAssignmnet2_SruthiKamisetti.csproj|solutionrelative:views\\course\\confirmationresponse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C97D8AE9-5182-416D-8D84-D83A091AFF32}|ProblemAssignmnet2_SruthiKamisetti.csproj|d:\\subjects\\sem 2\\asp.net\\assignments\\problemassignment2\\problemassignment2_sruthikamisetti\\problemassignmnet2_sruthikamisetti\\views\\course\\addcourse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C97D8AE9-5182-416D-8D84-D83A091AFF32}|ProblemAssignmnet2_SruthiKamisetti.csproj|solutionrelative:views\\course\\addcourse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C97D8AE9-5182-416D-8D84-D83A091AFF32}|ProblemAssignmnet2_SruthiKamisetti.csproj|d:\\subjects\\sem 2\\asp.net\\assignments\\problemassignment2\\problemassignment2_sruthikamisetti\\problemassignmnet2_sruthikamisetti\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C97D8AE9-5182-416D-8D84-D83A091AFF32}|ProblemAssignmnet2_SruthiKamisetti.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C97D8AE9-5182-416D-8D84-D83A091AFF32}|ProblemAssignmnet2_SruthiKamisetti.csproj|d:\\subjects\\sem 2\\asp.net\\assignments\\problemassignment2\\problemassignment2_sruthikamisetti\\problemassignmnet2_sruthikamisetti\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C97D8AE9-5182-416D-8D84-D83A091AFF32}|ProblemAssignmnet2_SruthiKamisetti.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C97D8AE9-5182-416D-8D84-D83A091AFF32}|ProblemAssignmnet2_SruthiKamisetti.csproj|d:\\subjects\\sem 2\\asp.net\\assignments\\problemassignment2\\problemassignment2_sruthikamisetti\\problemassignmnet2_sruthikamisetti\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C97D8AE9-5182-416D-8D84-D83A091AFF32}|ProblemAssignmnet2_SruthiKamisetti.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C97D8AE9-5182-416D-8D84-D83A091AFF32}|ProblemAssignmnet2_SruthiKamisetti.csproj|d:\\subjects\\sem 2\\asp.net\\assignments\\problemassignment2\\problemassignment2_sruthikamisetti\\problemassignmnet2_sruthikamisetti\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C97D8AE9-5182-416D-8D84-D83A091AFF32}|ProblemAssignmnet2_SruthiKamisetti.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C97D8AE9-5182-416D-8D84-D83A091AFF32}|ProblemAssignmnet2_SruthiKamisetti.csproj|d:\\subjects\\sem 2\\asp.net\\assignments\\problemassignment2\\problemassignment2_sruthikamisetti\\problemassignmnet2_sruthikamisetti\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C97D8AE9-5182-416D-8D84-D83A091AFF32}|ProblemAssignmnet2_SruthiKamisetti.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C97D8AE9-5182-416D-8D84-D83A091AFF32}|ProblemAssignmnet2_SruthiKamisetti.csproj|d:\\subjects\\sem 2\\asp.net\\assignments\\problemassignment2\\problemassignment2_sruthikamisetti\\problemassignmnet2_sruthikamisetti\\entities\\coursedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C97D8AE9-5182-416D-8D84-D83A091AFF32}|ProblemAssignmnet2_SruthiKamisetti.csproj|solutionrelative:entities\\coursedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C97D8AE9-5182-416D-8D84-D83A091AFF32}|ProblemAssignmnet2_SruthiKamisetti.csproj|d:\\subjects\\sem 2\\asp.net\\assignments\\problemassignment2\\problemassignment2_sruthikamisetti\\problemassignmnet2_sruthikamisetti\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C97D8AE9-5182-416D-8D84-D83A091AFF32}|ProblemAssignmnet2_SruthiKamisetti.csproj|solutionrelative:entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C97D8AE9-5182-416D-8D84-D83A091AFF32}|ProblemAssignmnet2_SruthiKamisetti.csproj|d:\\subjects\\sem 2\\asp.net\\assignments\\problemassignment2\\problemassignment2_sruthikamisetti\\problemassignmnet2_sruthikamisetti\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C97D8AE9-5182-416D-8D84-D83A091AFF32}|ProblemAssignmnet2_SruthiKamisetti.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C97D8AE9-5182-416D-8D84-D83A091AFF32}|ProblemAssignmnet2_SruthiKamisetti.csproj|d:\\subjects\\sem 2\\asp.net\\assignments\\problemassignment2\\problemassignment2_sruthikamisetti\\problemassignmnet2_sruthikamisetti\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C97D8AE9-5182-416D-8D84-D83A091AFF32}|ProblemAssignmnet2_SruthiKamisetti.csproj|solutionrelative:entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C97D8AE9-5182-416D-8D84-D83A091AFF32}|ProblemAssignmnet2_SruthiKamisetti.csproj|d:\\subjects\\sem 2\\asp.net\\assignments\\problemassignment2\\problemassignment2_sruthikamisetti\\problemassignmnet2_sruthikamisetti\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C97D8AE9-5182-416D-8D84-D83A091AFF32}|ProblemAssignmnet2_SruthiKamisetti.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C97D8AE9-5182-416D-8D84-D83A091AFF32}|ProblemAssignmnet2_SruthiKamisetti.csproj|d:\\subjects\\sem 2\\asp.net\\assignments\\problemassignment2\\problemassignment2_sruthikamisetti\\problemassignmnet2_sruthikamisetti\\views\\course\\editcourse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C97D8AE9-5182-416D-8D84-D83A091AFF32}|ProblemAssignmnet2_SruthiKamisetti.csproj|solutionrelative:views\\course\\editcourse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C97D8AE9-5182-416D-8D84-D83A091AFF32}|ProblemAssignmnet2_SruthiKamisetti.csproj|d:\\subjects\\sem 2\\asp.net\\assignments\\problemassignment2\\problemassignment2_sruthikamisetti\\problemassignmnet2_sruthikamisetti\\views\\course\\managecourse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C97D8AE9-5182-416D-8D84-D83A091AFF32}|ProblemAssignmnet2_SruthiKamisetti.csproj|solutionrelative:views\\course\\managecourse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C97D8AE9-5182-416D-8D84-D83A091AFF32}|ProblemAssignmnet2_SruthiKamisetti.csproj|d:\\subjects\\sem 2\\asp.net\\assignments\\problemassignment2\\problemassignment2_sruthikamisetti\\problemassignmnet2_sruthikamisetti\\models\\coursestudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C97D8AE9-5182-416D-8D84-D83A091AFF32}|ProblemAssignmnet2_SruthiKamisetti.csproj|solutionrelative:models\\coursestudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C97D8AE9-5182-416D-8D84-D83A091AFF32}|ProblemAssignmnet2_SruthiKamisetti.csproj|d:\\subjects\\sem 2\\asp.net\\assignments\\problemassignment2\\problemassignment2_sruthikamisetti\\problemassignmnet2_sruthikamisetti\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C97D8AE9-5182-416D-8D84-D83A091AFF32}|ProblemAssignmnet2_SruthiKamisetti.csproj|solutionrelative:views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C97D8AE9-5182-416D-8D84-D83A091AFF32}|ProblemAssignmnet2_SruthiKamisetti.csproj|d:\\subjects\\sem 2\\asp.net\\assignments\\problemassignment2\\problemassignment2_sruthikamisetti\\problemassignmnet2_sruthikamisetti\\models\\courselist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C97D8AE9-5182-416D-8D84-D83A091AFF32}|ProblemAssignmnet2_SruthiKamisetti.csproj|solutionrelative:models\\courselist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C97D8AE9-5182-416D-8D84-D83A091AFF32}|ProblemAssignmnet2_SruthiKamisetti.csproj|d:\\subjects\\sem 2\\asp.net\\assignments\\problemassignment2\\problemassignment2_sruthikamisetti\\problemassignmnet2_sruthikamisetti\\models\\emailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C97D8AE9-5182-416D-8D84-D83A091AFF32}|ProblemAssignmnet2_SruthiKamisetti.csproj|solutionrelative:models\\emailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C97D8AE9-5182-416D-8D84-D83A091AFF32}|ProblemAssignmnet2_SruthiKamisetti.csproj|d:\\subjects\\sem 2\\asp.net\\assignments\\problemassignment2\\problemassignment2_sruthikamisetti\\problemassignmnet2_sruthikamisetti\\controllers\\basecookiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C97D8AE9-5182-416D-8D84-D83A091AFF32}|ProblemAssignmnet2_SruthiKamisetti.csproj|solutionrelative:controllers\\basecookiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C97D8AE9-5182-416D-8D84-D83A091AFF32}|ProblemAssignmnet2_SruthiKamisetti.csproj|d:\\subjects\\sem 2\\asp.net\\assignments\\problemassignment2\\problemassignment2_sruthikamisetti\\problemassignmnet2_sruthikamisetti\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C97D8AE9-5182-416D-8D84-D83A091AFF32}|ProblemAssignmnet2_SruthiKamisetti.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C97D8AE9-5182-416D-8D84-D83A091AFF32}|ProblemAssignmnet2_SruthiKamisetti.csproj|d:\\subjects\\sem 2\\asp.net\\assignments\\problemassignment2\\problemassignment2_sruthikamisetti\\problemassignmnet2_sruthikamisetti\\views\\course\\thankyouresponse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C97D8AE9-5182-416D-8D84-D83A091AFF32}|ProblemAssignmnet2_SruthiKamisetti.csproj|solutionrelative:views\\course\\thankyouresponse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C97D8AE9-5182-416D-8D84-D83A091AFF32}|ProblemAssignmnet2_SruthiKamisetti.csproj|d:\\subjects\\sem 2\\asp.net\\assignments\\problemassignment2\\problemassignment2_sruthikamisetti\\problemassignmnet2_sruthikamisetti\\models\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C97D8AE9-5182-416D-8D84-D83A091AFF32}|ProblemAssignmnet2_SruthiKamisetti.csproj|solutionrelative:models\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 236,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Subjects\\Sem 2\\Asp.net\\Assignments\\ProblemAssignment2\\ProblemAssignment2_SruthiKamisetti\\ProblemAssignmnet2_SruthiKamisetti\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Subjects\\Sem 2\\Asp.net\\Assignments\\ProblemAssignment2\\ProblemAssignment2_SruthiKamisetti\\ProblemAssignmnet2_SruthiKamisetti\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T20:37:01.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "D:\\Subjects\\Sem 2\\Asp.net\\Assignments\\ProblemAssignment2\\ProblemAssignment2_SruthiKamisetti\\ProblemAssignmnet2_SruthiKamisetti\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CourseController.cs",
+              "ToolTip": "D:\\Subjects\\Sem 2\\Asp.net\\Assignments\\ProblemAssignment2\\ProblemAssignment2_SruthiKamisetti\\ProblemAssignmnet2_SruthiKamisetti\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "Controllers\\CourseController.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAUwEkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T20:04:16.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Subjects\\Sem 2\\Asp.net\\Assignments\\ProblemAssignment2\\ProblemAssignment2_SruthiKamisetti\\ProblemAssignmnet2_SruthiKamisetti\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Subjects\\Sem 2\\Asp.net\\Assignments\\ProblemAssignment2\\ProblemAssignment2_SruthiKamisetti\\ProblemAssignmnet2_SruthiKamisetti\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAIwCwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-09T03:54:00.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddCourse.cshtml",
+              "DocumentMoniker": "D:\\Subjects\\Sem 2\\Asp.net\\Assignments\\ProblemAssignment2\\ProblemAssignment2_SruthiKamisetti\\ProblemAssignmnet2_SruthiKamisetti\\Views\\Course\\AddCourse.cshtml",
+              "RelativeDocumentMoniker": "Views\\Course\\AddCourse.cshtml",
+              "ToolTip": "D:\\Subjects\\Sem 2\\Asp.net\\Assignments\\ProblemAssignment2\\ProblemAssignment2_SruthiKamisetti\\ProblemAssignmnet2_SruthiKamisetti\\Views\\Course\\AddCourse.cshtml",
+              "RelativeToolTip": "Views\\Course\\AddCourse.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T17:59:05.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConfirmationResponse.cshtml",
+              "DocumentMoniker": "D:\\Subjects\\Sem 2\\Asp.net\\Assignments\\ProblemAssignment2\\ProblemAssignment2_SruthiKamisetti\\ProblemAssignmnet2_SruthiKamisetti\\Views\\Course\\ConfirmationResponse.cshtml",
+              "RelativeDocumentMoniker": "Views\\Course\\ConfirmationResponse.cshtml",
+              "ToolTip": "D:\\Subjects\\Sem 2\\Asp.net\\Assignments\\ProblemAssignment2\\ProblemAssignment2_SruthiKamisetti\\ProblemAssignmnet2_SruthiKamisetti\\Views\\Course\\ConfirmationResponse.cshtml",
+              "RelativeToolTip": "Views\\Course\\ConfirmationResponse.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T22:56:39.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Subjects\\Sem 2\\Asp.net\\Assignments\\ProblemAssignment2\\ProblemAssignment2_SruthiKamisetti\\ProblemAssignmnet2_SruthiKamisetti\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "D:\\Subjects\\Sem 2\\Asp.net\\Assignments\\ProblemAssignment2\\ProblemAssignment2_SruthiKamisetti\\ProblemAssignmnet2_SruthiKamisetti\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-07T20:36:41.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Subjects\\Sem 2\\Asp.net\\Assignments\\ProblemAssignment2\\ProblemAssignment2_SruthiKamisetti\\ProblemAssignmnet2_SruthiKamisetti\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Subjects\\Sem 2\\Asp.net\\Assignments\\ProblemAssignment2\\ProblemAssignment2_SruthiKamisetti\\ProblemAssignmnet2_SruthiKamisetti\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T20:06:36.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CourseDBContext.cs",
+              "DocumentMoniker": "D:\\Subjects\\Sem 2\\Asp.net\\Assignments\\ProblemAssignment2\\ProblemAssignment2_SruthiKamisetti\\ProblemAssignmnet2_SruthiKamisetti\\Entities\\CourseDBContext.cs",
+              "RelativeDocumentMoniker": "Entities\\CourseDBContext.cs",
+              "ToolTip": "D:\\Subjects\\Sem 2\\Asp.net\\Assignments\\ProblemAssignment2\\ProblemAssignment2_SruthiKamisetti\\ProblemAssignmnet2_SruthiKamisetti\\Entities\\CourseDBContext.cs",
+              "RelativeToolTip": "Entities\\CourseDBContext.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAoAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T14:47:30.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Subjects\\Sem 2\\Asp.net\\Assignments\\ProblemAssignment2\\ProblemAssignment2_SruthiKamisetti\\ProblemAssignmnet2_SruthiKamisetti\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Subjects\\Sem 2\\Asp.net\\Assignments\\ProblemAssignment2\\ProblemAssignment2_SruthiKamisetti\\ProblemAssignmnet2_SruthiKamisetti\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-09T03:53:56.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ThankYouResponse.cshtml",
+              "DocumentMoniker": "D:\\Subjects\\Sem 2\\Asp.net\\Assignments\\ProblemAssignment2\\ProblemAssignment2_SruthiKamisetti\\ProblemAssignmnet2_SruthiKamisetti\\Views\\Course\\ThankYouResponse.cshtml",
+              "RelativeDocumentMoniker": "Views\\Course\\ThankYouResponse.cshtml",
+              "ToolTip": "D:\\Subjects\\Sem 2\\Asp.net\\Assignments\\ProblemAssignment2\\ProblemAssignment2_SruthiKamisetti\\ProblemAssignmnet2_SruthiKamisetti\\Views\\Course\\ThankYouResponse.cshtml",
+              "RelativeToolTip": "Views\\Course\\ThankYouResponse.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-09T00:03:35.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Subjects\\Sem 2\\Asp.net\\Assignments\\ProblemAssignment2\\ProblemAssignment2_SruthiKamisetti\\ProblemAssignmnet2_SruthiKamisetti\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Subjects\\Sem 2\\Asp.net\\Assignments\\ProblemAssignment2\\ProblemAssignment2_SruthiKamisetti\\ProblemAssignmnet2_SruthiKamisetti\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-08T22:15:10.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Subjects\\Sem 2\\Asp.net\\Assignments\\ProblemAssignment2\\ProblemAssignment2_SruthiKamisetti\\ProblemAssignmnet2_SruthiKamisetti\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Subjects\\Sem 2\\Asp.net\\Assignments\\ProblemAssignment2\\ProblemAssignment2_SruthiKamisetti\\ProblemAssignmnet2_SruthiKamisetti\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T00:21:30.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BaseCookiesController.cs",
+              "DocumentMoniker": "D:\\Subjects\\Sem 2\\Asp.net\\Assignments\\ProblemAssignment2\\ProblemAssignment2_SruthiKamisetti\\ProblemAssignmnet2_SruthiKamisetti\\Controllers\\BaseCookiesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BaseCookiesController.cs",
+              "ToolTip": "D:\\Subjects\\Sem 2\\Asp.net\\Assignments\\ProblemAssignment2\\ProblemAssignment2_SruthiKamisetti\\ProblemAssignmnet2_SruthiKamisetti\\Controllers\\BaseCookiesController.cs",
+              "RelativeToolTip": "Controllers\\BaseCookiesController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAYwBYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T01:12:24.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CourseList.cs",
+              "DocumentMoniker": "D:\\Subjects\\Sem 2\\Asp.net\\Assignments\\ProblemAssignment2\\ProblemAssignment2_SruthiKamisetti\\ProblemAssignmnet2_SruthiKamisetti\\Models\\CourseList.cs",
+              "RelativeDocumentMoniker": "Models\\CourseList.cs",
+              "ToolTip": "D:\\Subjects\\Sem 2\\Asp.net\\Assignments\\ProblemAssignment2\\ProblemAssignment2_SruthiKamisetti\\ProblemAssignmnet2_SruthiKamisetti\\Models\\CourseList.cs",
+              "RelativeToolTip": "Models\\CourseList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T02:22:07.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\Subjects\\Sem 2\\Asp.net\\Assignments\\ProblemAssignment2\\ProblemAssignment2_SruthiKamisetti\\ProblemAssignmnet2_SruthiKamisetti\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\Subjects\\Sem 2\\Asp.net\\Assignments\\ProblemAssignment2\\ProblemAssignment2_SruthiKamisetti\\ProblemAssignmnet2_SruthiKamisetti\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T04:22:02.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ResponseModel.cs",
+              "DocumentMoniker": "D:\\Subjects\\Sem 2\\Asp.net\\Assignments\\ProblemAssignment2\\ProblemAssignment2_SruthiKamisetti\\ProblemAssignmnet2_SruthiKamisetti\\Models\\ResponseModel.cs",
+              "RelativeDocumentMoniker": "Models\\ResponseModel.cs",
+              "ToolTip": "D:\\Subjects\\Sem 2\\Asp.net\\Assignments\\ProblemAssignment2\\ProblemAssignment2_SruthiKamisetti\\ProblemAssignmnet2_SruthiKamisetti\\Models\\ResponseModel.cs",
+              "RelativeToolTip": "Models\\ResponseModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T23:40:35.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EmailModel.cs",
+              "DocumentMoniker": "D:\\Subjects\\Sem 2\\Asp.net\\Assignments\\ProblemAssignment2\\ProblemAssignment2_SruthiKamisetti\\ProblemAssignmnet2_SruthiKamisetti\\Models\\EmailModel.cs",
+              "RelativeDocumentMoniker": "Models\\EmailModel.cs",
+              "ToolTip": "D:\\Subjects\\Sem 2\\Asp.net\\Assignments\\ProblemAssignment2\\ProblemAssignment2_SruthiKamisetti\\ProblemAssignmnet2_SruthiKamisetti\\Models\\EmailModel.cs",
+              "RelativeToolTip": "Models\\EmailModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T22:16:30.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EditCourse.cshtml",
+              "DocumentMoniker": "D:\\Subjects\\Sem 2\\Asp.net\\Assignments\\ProblemAssignment2\\ProblemAssignment2_SruthiKamisetti\\ProblemAssignmnet2_SruthiKamisetti\\Views\\Course\\EditCourse.cshtml",
+              "RelativeDocumentMoniker": "Views\\Course\\EditCourse.cshtml",
+              "ToolTip": "D:\\Subjects\\Sem 2\\Asp.net\\Assignments\\ProblemAssignment2\\ProblemAssignment2_SruthiKamisetti\\ProblemAssignmnet2_SruthiKamisetti\\Views\\Course\\EditCourse.cshtml",
+              "RelativeToolTip": "Views\\Course\\EditCourse.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T18:34:11.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CourseStudents.cs",
+              "DocumentMoniker": "D:\\Subjects\\Sem 2\\Asp.net\\Assignments\\ProblemAssignment2\\ProblemAssignment2_SruthiKamisetti\\ProblemAssignmnet2_SruthiKamisetti\\Models\\CourseStudents.cs",
+              "RelativeDocumentMoniker": "Models\\CourseStudents.cs",
+              "ToolTip": "D:\\Subjects\\Sem 2\\Asp.net\\Assignments\\ProblemAssignment2\\ProblemAssignment2_SruthiKamisetti\\ProblemAssignmnet2_SruthiKamisetti\\Models\\CourseStudents.cs",
+              "RelativeToolTip": "Models\\CourseStudents.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T17:34:20.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Subjects\\Sem 2\\Asp.net\\Assignments\\ProblemAssignment2\\ProblemAssignment2_SruthiKamisetti\\ProblemAssignmnet2_SruthiKamisetti\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "Entities\\Student.cs",
+              "ToolTip": "D:\\Subjects\\Sem 2\\Asp.net\\Assignments\\ProblemAssignment2\\ProblemAssignment2_SruthiKamisetti\\ProblemAssignmnet2_SruthiKamisetti\\Entities\\Student.cs",
+              "RelativeToolTip": "Entities\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T17:21:22.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ManageCourse.cshtml",
+              "DocumentMoniker": "D:\\Subjects\\Sem 2\\Asp.net\\Assignments\\ProblemAssignment2\\ProblemAssignment2_SruthiKamisetti\\ProblemAssignmnet2_SruthiKamisetti\\Views\\Course\\ManageCourse.cshtml",
+              "RelativeDocumentMoniker": "Views\\Course\\ManageCourse.cshtml",
+              "ToolTip": "D:\\Subjects\\Sem 2\\Asp.net\\Assignments\\ProblemAssignment2\\ProblemAssignment2_SruthiKamisetti\\ProblemAssignmnet2_SruthiKamisetti\\Views\\Course\\ManageCourse.cshtml",
+              "RelativeToolTip": "Views\\Course\\ManageCourse.cshtml",
+              "ViewState": "AQIAABoAAAAAAAAAAAAIwEwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T17:20:51.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Subjects\\Sem 2\\Asp.net\\Assignments\\ProblemAssignment2\\ProblemAssignment2_SruthiKamisetti\\ProblemAssignmnet2_SruthiKamisetti\\Views\\Course\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Course\\Index.cshtml",
+              "ToolTip": "D:\\Subjects\\Sem 2\\Asp.net\\Assignments\\ProblemAssignment2\\ProblemAssignment2_SruthiKamisetti\\ProblemAssignmnet2_SruthiKamisetti\\Views\\Course\\Index.cshtml",
+              "RelativeToolTip": "Views\\Course\\Index.cshtml",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAkwBYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T20:00:51.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\Subjects\\Sem 2\\Asp.net\\Assignments\\ProblemAssignment2\\ProblemAssignment2_SruthiKamisetti\\ProblemAssignmnet2_SruthiKamisetti\\Entities\\Course.cs",
+              "RelativeDocumentMoniker": "Entities\\Course.cs",
+              "ToolTip": "D:\\Subjects\\Sem 2\\Asp.net\\Assignments\\ProblemAssignment2\\ProblemAssignment2_SruthiKamisetti\\ProblemAssignmnet2_SruthiKamisetti\\Entities\\Course.cs",
+              "RelativeToolTip": "Entities\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T17:25:29.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Subjects\\Sem 2\\Asp.net\\Assignments\\ProblemAssignment2\\ProblemAssignment2_SruthiKamisetti\\ProblemAssignmnet2_SruthiKamisetti\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Subjects\\Sem 2\\Asp.net\\Assignments\\ProblemAssignment2\\ProblemAssignment2_SruthiKamisetti\\ProblemAssignmnet2_SruthiKamisetti\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T19:26:29.451Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
